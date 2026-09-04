@@ -18,7 +18,7 @@ An AI-powered web application that converts video content into useful summaries,
 - HTML
 - CSS
 - JavaScript
-- AI / Generative AI
+- Generative AI
 - Video & Audio Processing
 
 ## 📁 Project Structure
